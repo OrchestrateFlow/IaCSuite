@@ -3,6 +3,7 @@ The repository contains a set of tools, including configuration files, Dockerfil
 
 # We adhere to the following file structure.
 
+```
 /IaCSuite
   ├── ansible/                           # Folder for Ansible playbooks and roles
   │   ├── service1/                      # Configurations for a specific service
@@ -52,4 +53,5 @@ The repository contains a set of tools, including configuration files, Dockerfil
   ├── LICENSE
   ├── CONTRIBUTING.md
   └── README.md
+```
 
